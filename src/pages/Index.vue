@@ -4,6 +4,7 @@
       alt="Quasar logo"
       src="~assets/quasar-logo-full.svg"
     >
+    CHAD
   </q-page>
 </template>
 
